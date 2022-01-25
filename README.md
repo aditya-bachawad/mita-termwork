@@ -1,49 +1,44 @@
-# CW:
+# TermWork for 3rd Semester:
 
-## **DS**: (Files Downloaded)
--  10 Practicals,
+## **DS**:
+-  10 Practicals
 
-	Deadline for DS Assesment: **22 January 2022**
+  Deadline for DS Assesment: **22 January 2022**
 
-## **DOS** :  (Files Downloaded)
-- 11 practical and a Project 
+## **DOS** :
+> 11 practicals and a Project 
 
- ### Group Project -> 
+  Group Project Details -> 
  **PHP Library Form** : THURSDAY
- 
-		Deadline : **30 January 2022** 
+  Project Deadline : **30 January 2022** 
 
-### VIVA
-**W3Schools** ->
--  50 programs you have to  submit till 29 , 10 of each html, php, jscript, mysql, css
+  VIVA Details: 
+> 50 programs you have to  submit till 29 January , 10 of each html, php, jscript, mysql, css
 
-## DEMP : (Files Downloaded) (DEMP chi madam)
-- Experiment 10, Submitted
+## DEMP :
+> Experiment 10, Submitted
 
-## DMGT: (Assignment Files Downloaded)
-- Assignment 6 , **5 submitted**
-## COSS :  (Files Downloaded) (Thoda chutiya maru shakto)
+## DMGT:
+> 6 Assignments (Offline Submission: all in 1 File)
+
+## COSS : (room for ignoring some stuff)
+> Practical 10 -> All in one file (Before 26 January on googleClassroom)
 Practical 7,8,9,10 -> Add Extra Example for these practical
 (Combine all files into 1 pdf file)
-- Practical 10 -> All in one file (Before 26 January on googleClassroom)
-## APP : (8 practical Files Downloaded)
-Practical 12 and poster
+
+## APP :
+> 12 Practicals and poster
+Note: Practical 8 - 12 not uploaded 
+All in one file and print poster and submit
 
 ## V&PDE (Files Downloaded)
-- Upload on Gnomio
-
-Assignment 1 LDE
-Assignment 1 Laplace
+### Total:
+> Assignment 1 LDE
+> Assignment 1 Laplace
 ## IDA:
-- Upload on Google Classroom
+> 10 practicals
 - Convert given pdf files to word and add your own screenshorts
-IDA cheating nako maru
-10 practical
-
-## Deadlines: 
-DS Assesment Deadline : 22 January 2022
-DOS 3 Form Project: 30 Jan 2022
-
-
+Note: Upload on Google Classroom
+(IDA cheating mat maro)
 
 
