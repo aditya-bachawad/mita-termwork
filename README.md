@@ -18,31 +18,31 @@
 > 50 programs you have to  submit till 29 January , 10 of each language (html, php, jscript, mysql, css)
 
 ## DEMP :
-> Experiment 10, Submitted
+> 10 Experiments
 
 ## DMGT:
 > 6 Assignments (Offline Submission: all in 1 Folder)
 
 ## COSS : (room for ignoring some stuff)
-> Practical 10 -> All in one file (Before 26 January on googleClassroom)
+> 10 Practicals -> All in one file
  <br />
 Practical 7,8,9,10 -> Add Extra Example for these practical
  <br />
 Online Submission: (Combine all files into 1 pdf file)
 
 ## APP :
-> 12 Practicals and poster
+> 12 Practicals and poster (8 -12 not available here)
 Note: Practical 8 - 12 not uploaded 
  <br />
 Offline Submission: All in one envelope with poster.
 
 ## V&PDE (Files Downloaded)
-### Total:
-> Assignment 1 LDE
-> Assignment 1 Laplace
+> 2 Assignments
+<br />
+Submit Both on gnomio
 ## IDA:
 > 10 practicals(Convert pdf files on google classroom to word and add your own screenshorts)
  <br />
- Remember: Upload on Google Classroom.
+ Remember to Upload on Google Classroom.
 
 
