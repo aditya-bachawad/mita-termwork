@@ -40,6 +40,7 @@ Offline Submission: All in one envelope with poster.
 > 2 Assignments
 <br />
 Submit Both on gnomio
+
 ## IDA:
 > 10 practicals(Convert pdf files on google classroom to word and add your own screenshorts)
  <br />
